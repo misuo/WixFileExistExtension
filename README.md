@@ -1,6 +1,6 @@
 # WixFileExistExtension
 
-[WiX](http://wixtoolset.org) Preprocessor Extension allowing to check whether a file exist e.g. for inclusion into installer.
+[WiX](https://github.com/wixtoolset) Preprocessor Extension allowing to check whether a file exist e.g. for inclusion into installer.
 
 This extension solves issue [#3335](https://github.com/wixtoolset/issues/issues/3335) / [#1538](https://github.com/wixtoolset/issues/issues/1538)
 
